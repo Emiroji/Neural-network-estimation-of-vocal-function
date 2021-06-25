@@ -4,4 +4,6 @@ The follow neural network architecture provide a mapping between the seven input
 
 Emiro J. Ibarra, Jesus Parra, Gabriel A. Alzamendi, Juan P. Cortés,Víctor M. Espinoza, Daryush D. Mehta, Robert E. Hillman and Matías Zañartu, (2021) "Estimation of subglottal pressure, vocal fold collision pressure, and intrinsic laryngeal muscle activation from neck-surface vibration using a neural network model", submitted for publication
 
-code: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/main/Neural_Network_Estimation_of_Vocal_Function.ipynb
+code: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/main/code.ipynb
+
+DataSet:
