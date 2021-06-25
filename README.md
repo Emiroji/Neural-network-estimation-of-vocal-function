@@ -6,4 +6,4 @@ Emiro J. Ibarra, Jesus Parra, Gabriel A. Alzamendi, Juan P. Cortés,Víctor M. E
 
 code: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/main/code.ipynb
 
-DataSet:
+DataSet: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/3562744816772634d3125398328fd1f7351c11e5/DataSetModel.csv
