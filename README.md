@@ -4,6 +4,6 @@ Phyton code used in [1] for implementing a neural network architecture providing
 
 [1] Emiro J. Ibarra, Jesus Parra, Gabriel A. Alzamendi, Juan P. Cortés,Víctor M. Espinoza, Daryush D. Mehta, Robert E. Hillman, and Matías Zañartu, (2021) "Estimation of subglottal pressure, vocal fold collision pressure, and intrinsic laryngeal muscle activation from neck-surface vibration using a neural network model", submitted for publication to 'Frontiers in Physiology', 2021.
 
-code: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/main/code.ipynb
+code: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/2ba26326b1e67ad7d206109808898438340dda58/Code.ipynb
 
-DataSet: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/3562744816772634d3125398328fd1f7351c11e5/DataSetModel.csv
+DataSet: https://github.com/Emiroji/Neural-network-estimation-of-vocal-function/blob/2ba26326b1e67ad7d206109808898438340dda58/DataSetModel.csv
